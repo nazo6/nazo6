@@ -6,7 +6,7 @@ Interested in: Web technology (both frontend and backend), Rust, Neovim.
 
 ## Stats
 
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazo6&layout=compact&theme=tokyonight)](https://github.com/nazo6/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nazo6&layout=compact&theme=tokyonight&exclude_repo=telescope-tailwind.nvim,ianothercast)](https://github.com/nazo6/)
 
 ## Website (Japanese)
 
